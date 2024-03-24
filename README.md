@@ -13,8 +13,8 @@ The envisaged peer-to-peer energy trading framework is crafted in the following 
     ├─ Beta_parameter_data.mat        # parameter fitting results of beta distribution for different time
     ├─ Energy_load_data.mat           # energy load data aggregation results
     ├─ gqqplot.m.                     # QQ plot function
-    ├─ solar radiation data.zip       # records of solar radiation intensity data, 
-    ├─ prosumer energy load.zip       # records of energy load for 475 prosumers, 
+    ├─ solar radiation data.zip       # records of solar radiation intensity data
+    ├─ prosumer energy load.zip       # records of energy load for 100 prosumers
 /coalitional rules
     ├─ c1_no_coalitional_rules.m      # payoff of prosumers group when not applying coalitional rules
     ├─ c2_with_coalitional_rules.m    # payoff of prosumers group when applying coalitional rules
