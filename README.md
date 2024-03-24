@@ -13,8 +13,8 @@ The envisaged peer-to-peer energy trading framework is crafted in the following 
     ├─ Beta_parameter_data.mat        # parameter fitting results of beta distribution for different time
     ├─ Energy_load_data.mat           # energy load data aggregation results
     ├─ gqqplot.m.                     # QQ plot function
-    ├─ /solar radiation data          # records of solar radiation intensity data
-    ├─ /prosumer energy load          # records of energy load for 475 prosumers
+    ├─ solar radiation data.zip       # records of solar radiation intensity data, 
+    ├─ prosumer energy load.zip       # records of energy load for 475 prosumers, 
 /coalitional rules
     ├─ c1_no_coalitional_rules.m      # payoff of prosumers group when not applying coalitional rules
     ├─ c2_with_coalitional_rules.m    # payoff of prosumers group when applying coalitional rules
@@ -30,6 +30,9 @@ The envisaged peer-to-peer energy trading framework is crafted in the following 
 ## Dependencies
 * MATLAB 2020a or later
 * Windows 10 or later
+
+## Use
+Before executing MATLAB codes, make sure to extract the files 'solar radiation data.zip' and 'prosumer energy load.zip' to their respective directories.
 
 ## Authors
 * Da-Wen Huang, College of Computer Science, Sichuan Normal University, China, hdawen@sicnu.edu.cn.
