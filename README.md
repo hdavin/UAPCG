@@ -31,9 +31,6 @@ The envisaged peer-to-peer energy trading framework is crafted in the following 
 * MATLAB 2020a or later
 * Windows 10 or later
 
-## Use
-Before executing MATLAB codes, make sure to extract the files 'solar radiation data.zip' and 'prosumer energy load.zip' to their respective directories.
-
 ## Authors
 * Da-Wen Huang, College of Computer Science, Sichuan Normal University, China, hdawen@sicnu.edu.cn.
 * Fengji Luo, School of Civil Engineering, University of Sydney, Sydney, fengji.luo@sydney.edu.au.
