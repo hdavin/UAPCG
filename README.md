@@ -1,4 +1,4 @@
-This project aims to provide a comprehensive set of simulation datasets and core algorithms for implementing and testing the performance of this framework in the P2P energy trading environments.
+This project aims to provide a comprehensive set of simulation datasets and core algorithms for implementing and testing the performance of a P2P energy trading framework.
 
 ## Framework
 The envisaged peer-to-peer energy trading framework is crafted in the following manner:
