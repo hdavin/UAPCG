@@ -7,37 +7,37 @@ The envisaged peer-to-peer energy trading framework is crafted in the following 
 
 ## Description                    
 /data set
-│  ├─ c1_beta_parameter_fit.m      # parameter fitting of beta distribution and Q-Q plot
+------ c1_beta_parameter_fit.m      # parameter fitting of beta distribution and Q-Q plot
 
-│  ├─ c2_energy_load.m       # aggregate the energy load data of prosumers
+------ c2_energy_load.m       # aggregate the energy load data of prosumers
 
-│  ├─ Beta_parameter_data.mat     # parameter fitting results of beta distribution for different time │  ├─ Energy_load_data.mat       # energy load data aggregation results
+------ Beta_parameter_data.mat     # parameter fitting results of beta distribution for different time │  ├─ Energy_load_data.mat       # energy load data aggregation results
 
-│  ├─ gqqplot.m.  # QQ plot function
+------ gqqplot.m.  # QQ plot function
 
-│  ├─ /solar radiation data  # records of solar radiation intensity data
+------ /solar radiation data  # records of solar radiation intensity data
 
-│  ├─ /prosumer energy load   # records of energy load for 475 prosumers
+------ /prosumer energy load   # records of energy load for 475 prosumers
 
 /coalitional rules
 
-│  ├─ c1_no_coalitional_rules.m    # payoff of prosumers group when not applying coalitional rules
+------ c1_no_coalitional_rules.m    # payoff of prosumers group when not applying coalitional rules
 
-│  ├─ c2_with_coalitional_rules.m    # payoff of prosumers group when applying coalitional rules
+------ c2_with_coalitional_rules.m    # payoff of prosumers group when applying coalitional rules
 
-│  ├─ Beta_parameter_data.mat     # parameter fitting results of beta distribution for different time 
+------ Beta_parameter_data.mat     # parameter fitting results of beta distribution for different time 
 
-│  ├─ Energy_load_data.mat       # energy load data aggregation results
+------ Energy_load_data.mat       # energy load data aggregation results
 
 /payoff distribution
 
-│  ├─ Payoff_distribution.m       # Shapely value-based payoff distribution scheme
+------ Payoff_distribution.m       # Shapely value-based payoff distribution scheme
 
-│  ├─ plot_payoff.m       #   a plot function
+------ plot_payoff.m       #   a plot function
 
-│  ├─ Beta_parameter_data.mat     # parameter fitting results of beta distribution for different time 
+------ Beta_parameter_data.mat     # parameter fitting results of beta distribution for different time 
 
-│  ├─ Energy_load_data.mat       # energy load data aggregation results.
+------ Energy_load_data.mat       # energy load data aggregation results.
 
 ## Dependencies
 * MATLAB 2020a or later
